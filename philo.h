@@ -6,14 +6,13 @@
 /*   By: okassimi <okassimi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/04 15:54:53 by okassimi          #+#    #+#             */
-/*   Updated: 2023/08/06 23:57:17 by okassimi         ###   ########.fr       */
+/*   Updated: 2023/08/07 23:21:57 by okassimi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PHILO_H
 # define PHILO_H
 
-<<<<<<< HEAD
 # include <stdio.h>
 # include <unistd.h>
 # include <stdlib.h>
@@ -21,16 +20,6 @@
 # include <strings.h>
 # include <stdbool.h>
 # include <sys/time.h>
-=======
-#include <stdio.h>
-#include <unistd.h>
-#include <stdlib.h>
-#include <pthread.h>
-#include <string.h>
-#include <stdbool.h>
-#include <sys/time.h>
-
->>>>>>> 3a6d8cd5e166cb4612123d31def9894b01be3c39
 
 typedef struct s_philo
 {
